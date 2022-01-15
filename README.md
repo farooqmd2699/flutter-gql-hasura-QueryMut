@@ -1,4 +1,4 @@
-# back4appgraphqldemo
+# fluttergraphqldemo
 
 Flutter-Back4app Connection Template 
 
